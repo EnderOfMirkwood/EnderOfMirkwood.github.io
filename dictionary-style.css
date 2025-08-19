@@ -1,0 +1,10 @@
+.divider{
+    background-color: dimgray;
+    height: 5px;
+    width:100%;
+}
+.spacer{
+    background-color: white;
+    height: 5px;
+    width: 1px;
+}
